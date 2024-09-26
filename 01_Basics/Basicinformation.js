@@ -2,8 +2,8 @@
 "use strict";
 
 // PRIMITIVE DATA TYPE
-
 /* alert(3+2) ******** we are using nodejs , not browser
+
 DATTYPES
 number
 string
