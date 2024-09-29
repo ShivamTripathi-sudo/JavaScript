@@ -16,9 +16,15 @@
 // console.log(mytymeStamp);
 // console.log(myCreatedate1.getTime());
 
-let newdate = new Date();
+// let newdate = new Date();
 
+// console.log(newdate);
+// console.log(newdate.getDate() + 1);
+// console.log(newdate.getDay());
+// console.log(Date);
+var newdate = new Date();
+newdate.toLocaleString("default", {
+  weekday: "long",
+});
 console.log(newdate);
-console.log(newdate.getDate() + 1);
-console.log(newdate.getDay());
-console.log(Date);
+// console.log(newdate);

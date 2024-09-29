@@ -45,26 +45,26 @@ console.table([
 
 // ### finction ###
 // ## please understand to heap memory this memory provide direct referance of dattypes
-const fun = function () {
-  console.log("hello dean how are you");
-};
+// const fun = function () {
+//   console.log("hello dean how are you");
+// };
 
-let userone = {
-  email: "shiv@gmail.com",
-  name: "shivam",
-};
-let usertwo = userone;
-console.log(usertwo == userone);
+// let userone = {
+//   email: "shiv@gmail.com",
+//   name: "shivam",
+// };
+// let usertwo = userone;
+// console.log(usertwo == userone);
 
-usertwo.email = "keshav@gmail.com";
-console.log(userone.email);
-console.log(userone.email);
+// usertwo.email = "keshav@gmail.com";
+// console.log(userone.email);
+// console.log(userone.email);
 // #####   primitive data type store in stack memory undersatand  ##########
 
-var name1 = "kudan kumar mishra";
-var name2 = name1;
-name2 = "shivamtripathi";
+// var name1 = "kudan kumar mishra";
+// var name2 = name1;
+// name2 = "shivamtripathi";
 
-console.log(name1);
-console.log(name2);
-console.log("higyegde");
+// console.log(name1);
+// console.log(name2);
+// console.log("higyegde");
