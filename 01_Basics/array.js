@@ -60,6 +60,5 @@
 
 // .forEach(), .filter(), .map(), .reduce(),etc - alwyas used with arrays
 //                                              - these are arrays methods
-
 var name = "shivam";
 var name2 = "shivam";
