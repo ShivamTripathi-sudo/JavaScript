@@ -14,7 +14,7 @@ new3.forEach(function (value, index, fullArray) {
   console.log(value);
 });
 // %%%%%%%%%%%%%%%%%%%%%%% for of %%%%%%%%%%%%%%%%%%%%%% like as java enhance/for each loop;
-
+// a parameter is a variable in a function definition that represents a value the function expects to receive, while an argument is the actual value passed to the function when it's called  //
 var string = ["shivam", "shiva", "jitu", "rizwan", "tiwari"];
 for (var ts of string) {
   console.log(ts);
