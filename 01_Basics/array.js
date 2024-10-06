@@ -11,11 +11,7 @@
 // console.log(ot)
 //  var accountId = "2003510100064"
 //  console.table([penut ,ot, dob ,gender,accountId,notChange])
-
-
 //  you can find which type of datatype you written inside console.log(typeof nameof the variable)
-
-
 //  console.log(typeof age)
 //  console.log(typeof notChange)
 //  console.log(typeof cons)
@@ -24,7 +20,46 @@
 // console.log(typeof undefined)
 // console.log(typeof string)
 // console.log(typeof number)
-let login=""
-let boolean = Boolean(login)
+// let login = "";
+// let boolean = Boolean(login);
 // console.log(boolean);
-console.log(login);
+// Object in js :- key and values pairs
+// var student = {
+//   name: "Shivam",
+//   age: 50,
+//   gender: "male",
+//   color: "fair"
+// };
+
+// console.log(student.name);
+
+// var ar = [1, 5, 23, 89, 0];
+// console.log(ar[0]);
+// var arr = [
+//   {
+//     name: "Shivam",
+//     age: 50,
+//     gender: "male",
+//     color: "fair",
+//   },
+//   {
+//     name: "Viraj",
+//     age: 55,
+//     gender: "male",
+//     color: "Kariya",
+//   },
+//   {
+//     name: "Sonam",
+//     age: 19,
+//     gender: "female",
+//     color: "Gora",
+//   },
+// ];
+
+// console.log(arr[0].name);
+
+// .forEach(), .filter(), .map(), .reduce(),etc - alwyas used with arrays
+//                                              - these are arrays methods
+
+var name = "shivam";
+var name2 = "shivam";
